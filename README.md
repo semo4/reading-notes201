@@ -1,5 +1,5 @@
-# Code 201 Reading Notes [:heart_eyes:]("#" ":heart_eyes:")
+# Code 201 Reading Notes :
 
-## Table of Contact [:pencil:]("#" ":pencil:")
+## Table of Contact :
 - [Class 01](class-01.md)
 - [Class 02](class-02.md)
