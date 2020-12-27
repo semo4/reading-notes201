@@ -8,7 +8,7 @@
   - CSS
   - Practical
 
-**In introduction how poaple can access**
+**In introduction how poaple can access web**
 - Poeple can access web by three way 
     1. Browsers : People access websites using
         software called a web browser.
