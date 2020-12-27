@@ -1,7 +1,7 @@
 # Class 01 Reading
 
 ## HTML Book 
-### Introduction :book: : 
+### Introduction  : [:book:]("#" ":book:")
 - in introduction we will learn how to make web page in html and css and describe the content of the book.
 - this book divide to three section:
   - HTML
@@ -28,7 +28,7 @@
         are commonly used by people
         with visual impairments.
 
-## Let's go deep and see how the web work :earth_africa: :
+## Let's go deep and see how the web work  [:earth_africa:]("#" ":earth_africa:"): 
 - When you visit a website, the web server
 hosting that site could be anywhere in the
 world. In order for you to find the location of
@@ -37,7 +37,7 @@ to a Domain Name System (DNS) server.
 
 
 
-# Chapter 1 :book: :
+# Chapter 1 [:book:]("#" ":book:") : 
 ## Structure : 
 - all web site build by spacific structure.
 - structure is very important in helping
@@ -53,7 +53,7 @@ to a Domain Name System (DNS) server.
     an introduction or the most
     important information.
 
-# Chapter 8 :book: :
+# Chapter 8  [:book:]("#" ":book:") :
 ## Extra Markup : 
 - We will cover in this chpter the follwing topic :
     1. The different versions of HTML and how to      indicate which
@@ -235,7 +235,7 @@ a page.
     ![Image](images/ar.png)
 
 
-# Chapter 18 :book: :
+# Chapter 18 [:book:]("#" ":book:") :
 ### Process & Design
 
 1. It describe how to build the website and mentioned the criteria that we should follow to design the web site
@@ -287,7 +287,7 @@ the reason for that.
 
 
 
-# JavaScript 
+# JavaScript  [:book:]("#" ":book:")
 ![My Image](images/javas.png)
 
 
