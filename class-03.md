@@ -29,7 +29,7 @@ this tag to create it and to create the item we use the tag `<li></li>`
 - are made up of a set of terms along with the
 definitions for each of those terms.
 - we can created Definition by use tag `<dl></dl>`.
-- to ctrate tage that will contain the term that will by defined we will use `<dt></dt>`
+- to ctreat tage that will contain the term that will by defined we will use `<dt></dt>`
 - to create the tag that will contain the definition we will use the tag `<dd> </dd>`
 
 ### example 
@@ -47,7 +47,7 @@ definitions for each of those terms.
 
 
 # Summary
-1. There are three t XX ypes of HTML lists: ordered,
+1. There are three types of HTML lists: ordered,
 unordered, and definition.
 2. Ordered lists use numbers.
 3. Unordered lists use bullets.
