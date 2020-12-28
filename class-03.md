@@ -98,7 +98,9 @@ Adding padding can increase the
 readability of its contents.
 
 
-- The padding and margin properties are very helpful in adding space between various items on the page.
+- The padding and margin properties are very helpful in adding space 
+   between various items on the page.
+
 ![Image](images/mp.png)
 
 
