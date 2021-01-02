@@ -73,6 +73,7 @@
 - As a browser loads a web page, it creates a model of that page.
 The model is called a DOM tree, and it is stored in the browsers' memory.
 - BODY OF HTML PAGE
+
 ![Image](images/dom.png)
 
 - there are four types of nodes
@@ -137,16 +138,20 @@ The model is called a DOM tree, and it is stored in the browsers' memory.
 1. getElementByld('id')
 
     ![Image](images/selectone.png)
-2. querySelector( 'css selector ')
+
+2. querySelector('css selector')
 
     ![Image](images/selecttwo.png)
-3. getElementsByClassName( 'class')
+
+3. getElementsByClassName('class')
 
     ![Image](images/selectthree.png)
-4. getElementsByTagName( 'tagName')
+
+4. getElementsByTagName('tagName')
 
     ![Image](images/selectfour.png)
-5. querySelectorAll ( 'css selector' )
+
+5. querySelectorAll ('css selector')
 
     ![Image](images/selectfive.png)
 
@@ -165,7 +170,7 @@ Nodelist (even if it only finds one matching element).
 
 - we have four different DOM queries that all return a Nodelist.
     1. getElementsByTagName('hl')
-    2. getElementsByTagName('li ')
+    2. getElementsByTagName('li')
     3. getElementsByClassName('hot')
     4. querySelectorAll ('li [id]')
 
