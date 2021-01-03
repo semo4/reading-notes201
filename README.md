@@ -7,6 +7,8 @@
 - [Class 04](class-04)
 - [Class 05](class-05)
 - [Class 06](class-06)
+- [Class 07](class-07)
+
 
 
 
