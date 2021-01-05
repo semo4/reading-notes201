@@ -398,7 +398,7 @@ just happened." Your script can then respond to these events.
 
 5. **FORM EVENTS** Occur when a user interacts with a form element
 
-    - input Value in any <input> or <textarea> element has changed (IE9+)
+    - input Value in any `<input>` or `<textarea>` element has changed (IE9+)
     or any element with the contented i table attribute
     - change Value in select box, checkbox, or radio button changes ( IE9+)
     - submit User submits a form (using a button or a key)
